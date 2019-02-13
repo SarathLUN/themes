@@ -14,72 +14,72 @@ I am working on recreating the [Jetbrains](http://www.jetbrains.com) screenshots
 
 The [iTerm2](http://www.iterm2.com) screenshots are up to date.
 
-My [zsh theme](https://raw.githubusercontent.com/zdj/themes/master/zsh/zdj.zsh-theme) (that appears in the [iTerm2](http://www.iterm2.com) screenshots) is also in this repo.
+My [zsh theme](https://raw.githubusercontent.com/SarathLUN/themes/master/zsh/zdj.zsh-theme) (that appears in the [iTerm2](http://www.iterm2.com) screenshots) is also in this repo.
 
 ## iTerm2 Screenshots
 
 #### AdventureTime.itermcolors
-![AdventureTime.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/AdventureTime.itermcolors.png)
+![AdventureTime.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/AdventureTime.itermcolors.png)
 #### AlienBlood.itermcolors
-![AlienBlood.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/AlienBlood.itermcolors.png)
+![AlienBlood.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/AlienBlood.itermcolors.png)
 #### BirdsOfParadise.itermcolors
-![BirdsOfParadise.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/BirdsOfParadise.itermcolors.png)
+![BirdsOfParadise.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/BirdsOfParadise.itermcolors.png)
 #### Ciapre.itermcolors
-![Ciapre.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Ciapre.itermcolors.png)
+![Ciapre.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Ciapre.itermcolors.png)
 #### CrayonPonyFish.itermcolors
-![CrayonPonyFish.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/CrayonPonyFish.itermcolors.png)
+![CrayonPonyFish.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/CrayonPonyFish.itermcolors.png)
 #### DimmedMonokai.itermcolors
-![DimmedMonokai.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/DimmedMonokai.itermcolors.png)
+![DimmedMonokai.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/DimmedMonokai.itermcolors.png)
 #### Earthsong.itermcolors
-![Earthsong.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Earthsong.itermcolors.png)
+![Earthsong.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Earthsong.itermcolors.png)
 #### Elemental.itermcolors
-![Elemental.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Elemental.itermcolors.png)
+![Elemental.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Elemental.itermcolors.png)
 #### FishTank.itermcolors
-![FishTank.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FishTank.itermcolors.png)
+![FishTank.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/FishTank.itermcolors.png)
 #### FrontEndDelight.itermcolors
-![FrontEndDelight.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FrontEndDelight.itermcolors.png)
+![FrontEndDelight.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/FrontEndDelight.itermcolors.png)
 #### FunForrest.itermcolors
-![FunForrest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FunForrest.itermcolors.png)
+![FunForrest.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/FunForrest.itermcolors.png)
 #### Grape.itermcolors
-![Grape.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Grape.itermcolors.png)
+![Grape.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Grape.itermcolors.png)
 #### Highway.itermcolors
-![Highway.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Highway.itermcolors.png)
+![Highway.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Highway.itermcolors.png)
 #### IC_Green_PPL.itermcolors
-![IC_Green_PPL.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/IC_Green_PPL.itermcolors.png)
+![IC_Green_PPL.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/IC_Green_PPL.itermcolors.png)
 #### IC_Orange_PPL.itermcolors
-![IC_Orange_PPL.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/IC_Orange_PPL.itermcolors.png)
+![IC_Orange_PPL.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/IC_Orange_PPL.itermcolors.png)
 #### Lavandula.itermcolors
-![Lavandula.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Lavandula.itermcolors.png)
+![Lavandula.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Lavandula.itermcolors.png)
 #### Medallion.itermcolors
-![Medallion.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Medallion.itermcolors.png)
+![Medallion.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Medallion.itermcolors.png)
 #### MonaLisa.itermcolors
-![MonaLisa.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/MonaLisa.itermcolors.png)
+![MonaLisa.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/MonaLisa.itermcolors.png)
 #### Ollie.itermcolors
-![Ollie.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Ollie.itermcolors.png)
+![Ollie.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Ollie.itermcolors.png)
 #### Royal.itermcolors
-![Royal.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Royal.itermcolors.png)
+![Royal.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Royal.itermcolors.png)
 #### SeaShells.itermcolors
-![SeaShells.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SeaShells.itermcolors.png)
+![SeaShells.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/SeaShells.itermcolors.png)
 #### Shaman.itermcolors
-![Shaman.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Shaman.itermcolors.png)
+![Shaman.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Shaman.itermcolors.png)
 #### SleepyHollow.itermcolors
-![SleepyHollow.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SleepyHollow.itermcolors.png)
+![SleepyHollow.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/SleepyHollow.itermcolors.png)
 #### SoftServer.itermcolors
-![SoftServer.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SoftServer.itermcolors.png)
+![SoftServer.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/SoftServer.itermcolors.png)
 #### Sundried.itermcolors
-![Sundried.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Sundried.itermcolors.png)
+![Sundried.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Sundried.itermcolors.png)
 #### TheCoralDeeps.itermcolors
-![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TheCoralDeeps.itermcolors.png)
+![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/TheCoralDeeps.itermcolors.png)
 #### TonyTheCoralDeeps.itermcolors
-![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TonyTheCoralDeeps.itermcolors.png)
+![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/TonyTheCoralDeeps.itermcolors.png)
 #### ToyChest.itermcolors
-![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/ToyChest.itermcolors.png)
+![ToyChest.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/ToyChest.itermcolors.png)
 #### TonyToyChest.itermcolors
-![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TonyToyChest.itermcolors.png)
+![ToyChest.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/TonyToyChest.itermcolors.png)
 #### Treehouse.itermcolors
-![Treehouse.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Treehouse.itermcolors.png)
+![Treehouse.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Treehouse.itermcolors.png)
 #### Urple.itermcolors
-![Urple.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Urple.itermcolors.png)
+![Urple.itermcolors](https://raw.githubusercontent.com/SarathLUN/themes/master/screenshots/Urple.itermcolors.png)
 
 ## Jetbrains (IDEA) Screenshots
 
