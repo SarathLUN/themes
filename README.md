@@ -72,6 +72,8 @@ My [zsh theme](https://raw.githubusercontent.com/zdj/themes/master/zsh/zdj.zsh-t
 ![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TheCoralDeeps.itermcolors.png)
 #### ToyChest.itermcolors
 ![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/ToyChest.itermcolors.png)
+#### ToyChest.itermcolors
+![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TonyToyChest.itermcolors.png)
 #### Treehouse.itermcolors
 ![Treehouse.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Treehouse.itermcolors.png)
 #### Urple.itermcolors
