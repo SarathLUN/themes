@@ -70,9 +70,11 @@ My [zsh theme](https://raw.githubusercontent.com/zdj/themes/master/zsh/zdj.zsh-t
 ![Sundried.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Sundried.itermcolors.png)
 #### TheCoralDeeps.itermcolors
 ![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TheCoralDeeps.itermcolors.png)
+#### TonyTheCoralDeeps.itermcolors
+![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TonyTheCoralDeeps.itermcolors.png)
 #### ToyChest.itermcolors
 ![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/ToyChest.itermcolors.png)
-#### ToyChest.itermcolors
+#### TonyToyChest.itermcolors
 ![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TonyToyChest.itermcolors.png)
 #### Treehouse.itermcolors
 ![Treehouse.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Treehouse.itermcolors.png)
